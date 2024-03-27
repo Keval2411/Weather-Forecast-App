@@ -21,6 +21,7 @@ With [The Weather Forecasting](https://the-weather-forecasting.netlify.app) user
 
 ```bash
 git clone https://github.com/Keval2411/Weather-Forecast-App.git
+```
 
 - Install the packages using the command `npm install`
 
