@@ -1,4 +1,5 @@
-![Application screenshot](./public/screenshot.png)
+![Application screenshot]: ![Screenshot_Weather_forecast png](https://github.com/Keval2411/Weather-Forecast-App/assets/117978648/c4192da0-446f-4171-a77d-27a2060c40c7)
+
 
 <br/>
 <br/>
