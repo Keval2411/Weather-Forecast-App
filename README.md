@@ -24,8 +24,6 @@ git clone https://github.com/Keval2411/Weather-Forecast-App.git
 
 - Install the packages using the command `npm install`
 
-<br/>
-
 ## Install the packages using the command npm install
 
 ## 📙 Used libraries
@@ -33,7 +31,6 @@ react-js
 material-ui
 
 Check packages.json for details
-<
 
 ## 📄 Todos
 
@@ -44,5 +41,4 @@ Check packages.json for details
 - [ ] Celcius/Fahrenheit conversion
 - [ ] Dark/Light Mode
 
-<br/>
 Thank You ☺
